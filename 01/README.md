@@ -1,10 +1,10 @@
 # Pengenalan Kecerdasan Buatan
 
 Teori Menjelaskan :
-* Definisi Kecerdasan Buatan
-* Training
-* Accuracy
-* Data Preparasi
+* Definisi Kecerdasan Buatan -- Cerdas = cepat dan tepat -- Suatu pembelajaran yang cepat dan tepat yang dibuat manusia membantu/mempermudah suatu proses
+* Training -- Proses pembuatan model dimana data akan diproses sesuai dengan hyperparameter yang sudah di set
+* Accuracy -- Pengukur hasil atau kinerja model
+* Data Preparasi -- proses dimana data dibersihkan atau dipersiapkan untuk training
 
 ## Python
 
